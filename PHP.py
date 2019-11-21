@@ -1,5 +1,7 @@
-def asshole()
-    print('You asshole!')
+def asshole():
+    a=10
+    b=19
+    c = a + b
+    print(c)
     return
-a=asshole()
-print(a)
+asshole()
